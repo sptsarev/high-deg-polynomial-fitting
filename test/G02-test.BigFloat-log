@@ -1,0 +1,1615 @@
+skipped rows: 6
+read param: start1 - step384 - overlap96 - end576
+orttol=1.18305218616677471097275159751802653165218218390477217740316270164420782863291920121825395439065810929991605260855499075127845940318281500410925478044940606975921307035732749414906442816207241626656754216819946136627575194161351694757262738421040321653586585460000921880593908077140545935153179288339823e-271
+degree = 2
+degree = 3
+degree = 4
+degree = 5
+degree = 6
+degree = 7
+degree = 8
+degree = 9
+degree = 10
+degree = 11
+degree = 12
+degree = 13
+degree = 14
+degree = 15
+degree = 16
+degree = 17
+degree = 18
+degree = 19
+degree = 20
+degree = 21
+degree = 22
+degree = 23
+degree = 24
+degree = 25
+degree = 26
+degree = 27
+degree = 28
+degree = 29
+degree = 30
+degree = 31
+degree = 32
+degree = 33
+degree = 34
+degree = 35
+degree = 36
+degree = 37
+degree = 38
+degree = 39
+degree = 40
+degree = 41
+degree = 42
+degree = 43
+degree = 44
+degree = 45
+degree = 46
+degree = 47
+degree = 48
+degree = 49
+degree = 50
+degree = 51
+degree = 52
+degree = 53
+degree = 54
+degree = 55
+degree = 56
+degree = 57
+degree = 58
+degree = 59
+degree = 60
+degree = 61
+degree = 62
+degree = 63
+degree = 64
+degree = 65
+degree = 66
+degree = 67
+degree = 68
+degree = 69
+degree = 70
+degree = 71
+degree = 72
+degree = 73
+degree = 74
+degree = 75
+degree = 76
+degree = 77
+degree = 78
+degree = 79
+degree = 80
+degree = 81
+degree = 82
+degree = 83
+degree = 84
+degree = 85
+degree = 86
+degree = 87
+degree = 88
+degree = 89
+degree = 90
+degree = 91
+degree = 92
+degree = 93
+degree = 94
+degree = 95
+degree = 96
+degree = 97
+degree = 98
+degree = 99
+degree = 100
+degree = 101
+degree = 102
+degree = 103
+degree = 104
+degree = 105
+degree = 106
+degree = 107
+degree = 108
+degree = 109
+degree = 110
+degree = 111
+degree = 112
+degree = 113
+degree = 114
+degree = 115
+degree = 116
+degree = 117
+degree = 118
+degree = 119
+degree = 120
+degree = 121
+degree = 122
+degree = 123
+degree = 124
+degree = 125
+degree = 126
+degree = 127
+degree = 128
+degree = 129
+degree = 130
+degree = 131
+degree = 132
+degree = 133
+degree = 134
+degree = 135
+degree = 136
+degree = 137
+degree = 138
+degree = 139
+degree = 140
+degree = 141
+degree = 142
+degree = 143
+degree = 144
+degree = 145
+degree = 146
+degree = 147
+degree = 148
+degree = 149
+degree = 150
+degree = 151
+degree = 152
+degree = 153
+degree = 154
+degree = 155
+degree = 156
+degree = 157
+degree = 158
+degree = 159
+degree = 160
+degree = 161
+degree = 162
+degree = 163
+degree = 164
+degree = 165
+degree = 166
+degree = 167
+degree = 168
+degree = 169
+degree = 170
+degree = 171
+degree = 172
+degree = 173
+degree = 174
+degree = 175
+degree = 176
+degree = 177
+degree = 178
+degree = 179
+degree = 180
+degree = 181
+degree = 182
+degree = 183
+degree = 184
+degree = 185
+degree = 186
+degree = 187
+degree = 188
+degree = 189
+degree = 190
+degree = 191
+degree = 192
+degree = 193
+degree = 194
+degree = 195
+degree = 196
+degree = 197
+degree = 198
+degree = 199
+degree = 200
+Legendre polynomials done
+Orthogonalization started
+degree = 1   max nev after orthogonalization = 4.024699354795131e-301   repN = 1   norm was: 1.134320974463159e+01
+degree = 2   max nev after orthogonalization = 1.399895427754828e-300   repN = 1   norm was: 8.809234026154288e+00
+degree = 3   max nev after orthogonalization = 5.016291949454801e-301   repN = 1   norm was: 7.464372877369972e+00
+degree = 4   max nev after orthogonalization = 6.532845329522532e-301   repN = 1   norm was: 6.599787898487475e+00
+degree = 5   max nev after orthogonalization = 5.132949901767704e-301   repN = 1   norm was: 5.984812135904990e+00
+degree = 6   max nev after orthogonalization = 2.916448807822559e-301   repN = 1   norm was: 5.518926602004272e+00
+degree = 7   max nev after orthogonalization = 9.099320280406384e-301   repN = 1   norm was: 5.150399826815775e+00
+degree = 8   max nev after orthogonalization = 6.066213520270923e-301   repN = 1   norm was: 4.849537205594410e+00
+degree = 9   max nev after orthogonalization = 8.399372566528970e-301   repN = 1   norm was: 4.597916614704785e+00
+degree = 10   max nev after orthogonalization = 1.026589980353541e-300   repN = 1   norm was: 4.383422999695416e+00
+degree = 11   max nev after orthogonalization = 3.033106760135461e-301   repN = 1   norm was: 4.197718401481226e+00
+degree = 12   max nev after orthogonalization = 4.666318092516094e-301   repN = 1   norm was: 4.034851019782610e+00
+degree = 13   max nev after orthogonalization = 8.632688471154775e-301   repN = 1   norm was: 3.890443031347350e+00
+degree = 14   max nev after orthogonalization = 3.033106760135461e-301   repN = 1   norm was: 3.761192552157256e+00
+degree = 15   max nev after orthogonalization = 3.733054474012876e-301   repN = 1   norm was: 3.644555569706474e+00
+degree = 16   max nev after orthogonalization = 5.599581711019313e-301   repN = 1   norm was: 3.538535723850906e+00
+degree = 17   max nev after orthogonalization = 3.733054474012876e-301   repN = 1   norm was: 3.441541228990513e+00
+degree = 18   max nev after orthogonalization = 9.099320280406384e-301   repN = 1   norm was: 3.352284986968496e+00
+degree = 19   max nev after orthogonalization = 7.232793043399946e-301   repN = 1   norm was: 3.269713285617543e+00
+degree = 20   max nev after orthogonalization = 6.066213520270923e-301   repN = 1   norm was: 3.192953894766911e+00
+degree = 21   max nev after orthogonalization = 5.949555567958020e-301   repN = 1   norm was: 3.121277618675379e+00
+degree = 22   max nev after orthogonalization = 4.433002187890290e-301   repN = 1   norm was: 3.054069368932803e+00
+degree = 23   max nev after orthogonalization = 3.616396521699973e-301   repN = 1   norm was: 2.990806093029831e+00
+degree = 24   max nev after orthogonalization = 7.582766900338653e-301   repN = 1   norm was: 2.931039718884842e+00
+degree = 25   max nev after orthogonalization = 3.966370378638680e-301   repN = 1   norm was: 2.874383822652657e+00
+degree = 26   max nev after orthogonalization = 1.983185189319340e-301   repN = 1   norm was: 2.820503096855543e+00
+degree = 27   max nev after orthogonalization = 3.266422664761266e-301   repN = 1   norm was: 2.769104950153108e+00
+degree = 28   max nev after orthogonalization = 3.674725497856424e-301   repN = 1   norm was: 2.719932747761487e+00
+degree = 29   max nev after orthogonalization = 5.657910687175764e-301   repN = 1   norm was: 2.672760327539500e+00
+degree = 30   max nev after orthogonalization = 2.683132903196754e-301   repN = 1   norm was: 2.627387517326799e+00
+degree = 31   max nev after orthogonalization = 2.741461879353205e-301   repN = 1   norm was: 2.583636445029437e+00
+degree = 32   max nev after orthogonalization = 3.383080617074168e-301   repN = 1   norm was: 2.541348481471233e+00
+degree = 33   max nev after orthogonalization = 4.374673211733838e-301   repN = 1   norm was: 2.500381692136648e+00
+degree = 34   max nev after orthogonalization = 4.841305020985448e-301   repN = 1   norm was: 2.460608701069206e+00
+degree = 35   max nev after orthogonalization = 3.733054474012876e-301   repN = 1   norm was: 2.421914890777922e+00
+degree = 36   max nev after orthogonalization = 4.287179747499162e-301   repN = 1   norm was: 2.384196877760558e+00
+degree = 37   max nev after orthogonalization = 3.616396521699973e-301   repN = 1   norm was: 2.347361215410251e+00
+degree = 38   max nev after orthogonalization = 3.995534866716906e-301   repN = 1   norm was: 2.311323285525523e+00
+degree = 39   max nev after orthogonalization = 5.205861121963268e-301   repN = 1   norm was: 2.276006347048041e+00
+degree = 40   max nev after orthogonalization = 8.931624473956587e-301   repN = 1   norm was: 2.241340716491798e+00
+degree = 41   max nev after orthogonalization = 7.830665049003571e-301   repN = 1   norm was: 2.207263059162291e+00
+degree = 42   max nev after orthogonalization = 3.208093688604815e-301   repN = 1   norm was: 2.173715773966029e+00
+degree = 43   max nev after orthogonalization = 4.928798485220125e-301   repN = 1   norm was: 2.140646457584251e+00
+degree = 44   max nev after orthogonalization = 4.010117110756019e-301   repN = 1   norm was: 2.108007436186831e+00
+degree = 45   max nev after orthogonalization = 9.781040189234907e-301   repN = 1   norm was: 2.075755354812923e+00
+degree = 46   max nev after orthogonalization = 4.928798485220125e-301   repN = 1   norm was: 2.043850816136925e+00
+degree = 47   max nev after orthogonalization = 2.668550659157641e-301   repN = 1   norm was: 2.012258061644048e+00
+degree = 48   max nev after orthogonalization = 1.163298518220223e-300   repN = 1   norm was: 1.980944689315532e+00
+degree = 49   max nev after orthogonalization = 4.443938870919624e-301   repN = 1   norm was: 1.949881402813961e+00
+degree = 50   max nev after orthogonalization = 8.104082124736936e-301   repN = 1   norm was: 1.919041787899207e+00
+degree = 51   max nev after orthogonalization = 3.922623646521342e-301   repN = 1   norm was: 1.888402112423290e+00
+degree = 52   max nev after orthogonalization = 3.452801971386176e-301   repN = 1   norm was: 1.857941146770215e+00
+degree = 53   max nev after orthogonalization = 5.016291949454801e-301   repN = 1   norm was: 1.827640002042494e+00
+degree = 54   max nev after orthogonalization = 3.849712426325778e-301   repN = 1   norm was: 1.797481983664127e+00
+degree = 55   max nev after orthogonalization = 4.790267166848553e-301   repN = 1   norm was: 1.767452458381901e+00
+degree = 56   max nev after orthogonalization = 4.790267166848553e-301   repN = 1   norm was: 1.737538732912581e+00
+degree = 57   max nev after orthogonalization = 5.692201745423991e-301   repN = 1   norm was: 1.707729942710598e+00
+degree = 58   max nev after orthogonalization = 5.719885224341994e-301   repN = 1   norm was: 1.678016949525623e+00
+degree = 59   max nev after orthogonalization = 8.827725985177908e-301   repN = 1   norm was: 1.648392246587113e+00
+degree = 60   max nev after orthogonalization = 7.298413141575954e-301   repN = 1   norm was: 1.618849870397926e+00
+degree = 61   max nev after orthogonalization = 9.181345403126394e-301   repN = 1   norm was: 1.589385318244910e+00
+degree = 62   max nev after orthogonalization = 6.970312650695916e-301   repN = 1   norm was: 1.559995470644038e+00
+degree = 63   max nev after orthogonalization = 8.092234051455157e-301   repN = 1   norm was: 1.530678518033556e+00
+degree = 64   max nev after orthogonalization = 7.518969582667535e-301   repN = 1   norm was: 1.501433891112886e+00
+degree = 65   max nev after orthogonalization = 9.911368995334478e-301   repN = 1   norm was: 1.472262194299355e+00
+degree = 66   max nev after orthogonalization = 6.081707154562480e-301   repN = 1   norm was: 1.443165141840655e+00
+degree = 67   max nev after orthogonalization = 1.363394248144424e-300   repN = 1   norm was: 1.414145496179466e+00
+degree = 68   max nev after orthogonalization = 9.781495884361130e-301   repN = 1   norm was: 1.385207008219025e+00
+degree = 69   max nev after orthogonalization = 1.482877510239905e-300   repN = 1   norm was: 1.356354359185258e+00
+degree = 70   max nev after orthogonalization = 1.221331292544630e-300   repN = 1   norm was: 1.327593103823362e+00
+degree = 71   max nev after orthogonalization = 2.206658079218744e-300   repN = 1   norm was: 1.298929614704831e+00
+degree = 72   max nev after orthogonalization = 1.527376139315510e-300   repN = 1   norm was: 1.270371027455543e+00
+degree = 73   max nev after orthogonalization = 2.796441496331923e-300   repN = 1   norm was: 1.241925186746985e+00
+degree = 74   max nev after orthogonalization = 2.215190970457256e-300   repN = 1   norm was: 1.213600592921387e+00
+degree = 75   max nev after orthogonalization = 3.624428148299641e-300   repN = 1   norm was: 1.185406349147815e+00
+degree = 76   max nev after orthogonalization = 2.739855554033272e-300   repN = 1   norm was: 1.157352109030322e+00
+degree = 77   max nev after orthogonalization = 4.818127227627967e-300   repN = 1   norm was: 1.129448024611307e+00
+degree = 78   max nev after orthogonalization = 3.732393716079853e-300   repN = 1   norm was: 1.101704694733522e+00
+degree = 79   max nev after orthogonalization = 6.469218897523747e-300   repN = 1   norm was: 1.074133113742755e+00
+degree = 80   max nev after orthogonalization = 4.809078831277916e-300   repN = 1   norm was: 1.046744620530280e+00
+degree = 81   max nev after orthogonalization = 8.736960060318048e-300   repN = 1   norm was: 1.019550847929785e+00
+degree = 82   max nev after orthogonalization = 6.603260194854760e-300   repN = 1   norm was: 9.925636724977735e-01
+degree = 83   max nev after orthogonalization = 1.230794798673724e-299   repN = 1   norm was: 9.657951647193853e-01
+degree = 84   max nev after orthogonalization = 9.202156429922057e-300   repN = 1   norm was: 9.392575396933251e-01
+degree = 85   max nev after orthogonalization = 1.705175988356197e-299   repN = 1   norm was: 9.129631083601289e-01
+degree = 86   max nev after orthogonalization = 1.296378227632543e-299   repN = 1   norm was: 8.869242293473560e-01
+degree = 87   max nev after orthogonalization = 2.409077071060680e-299   repN = 1   norm was: 8.611532615135371e-01
+degree = 88   max nev after orthogonalization = 1.843438232996207e-299   repN = 1   norm was: 8.356625172798201e-01
+degree = 89   max nev after orthogonalization = 3.410867481823933e-299   repN = 1   norm was: 8.104642168442761e-01
+degree = 90   max nev after orthogonalization = 2.633762216799380e-299   repN = 1   norm was: 7.855704433787600e-01
+degree = 91   max nev after orthogonalization = 4.932356752132286e-299   repN = 1   norm was: 7.609930993120852e-01
+degree = 92   max nev after orthogonalization = 3.808048648149456e-299   repN = 1   norm was: 7.367438638060805e-01
+degree = 93   max nev after orthogonalization = 7.190743953633695e-299   repN = 1   norm was: 7.128341515328610e-01
+degree = 94   max nev after orthogonalization = 5.607635241246044e-299   repN = 1   norm was: 6.892750728623833e-01
+degree = 95   max nev after orthogonalization = 1.054681428343560e-298   repN = 1   norm was: 6.660773955690829e-01
+degree = 96   max nev after orthogonalization = 8.280181581235248e-299   repN = 1   norm was: 6.432515081651277e-01
+degree = 97   max nev after orthogonalization = 1.566295373885184e-298   repN = 1   norm was: 6.208073849655923e-01
+degree = 98   max nev after orthogonalization = 1.236259602765971e-298   repN = 1   norm was: 5.987545529876844e-01
+degree = 99   max nev after orthogonalization = 2.347517641670927e-298   repN = 1   norm was: 5.771020607820748e-01
+degree = 100   max nev after orthogonalization = 1.864403091830630e-298   repN = 1   norm was: 5.558584492894234e-01
+degree = 101   max nev after orthogonalization = 3.549555572224354e-298   repN = 1   norm was: 5.350317248093984e-01
+degree = 102   max nev after orthogonalization = 2.837241945239249e-298   repN = 1   norm was: 5.146293341629019e-01
+degree = 103   max nev after orthogonalization = 5.420176194223644e-298   repN = 1   norm was: 4.946581421208783e-01
+degree = 104   max nev after orthogonalization = 4.358340407830547e-298   repN = 1   norm was: 4.751244111650626e-01
+degree = 105   max nev after orthogonalization = 8.356515212814983e-298   repN = 1   norm was: 4.560337836373637e-01
+degree = 106   max nev after orthogonalization = 6.758771566917385e-298   repN = 1   norm was: 4.373912663253481e-01
+degree = 107   max nev after orthogonalization = 1.300368798234322e-297   repN = 1   norm was: 4.192012175215490e-01
+degree = 108   max nev after orthogonalization = 1.057685156909790e-297   repN = 1   norm was: 4.014673365841492e-01
+degree = 109   max nev after orthogonalization = 2.042249100830930e-297   repN = 1   norm was: 3.841926560160430e-01
+degree = 110   max nev after orthogonalization = 1.670588836909595e-297   repN = 1   norm was: 3.673795360684489e-01
+degree = 111   max nev after orthogonalization = 3.237074509249152e-297   repN = 1   norm was: 3.510296618642023e-01
+degree = 112   max nev after orthogonalization = 2.662714055821595e-297   repN = 1   norm was: 3.351440430246796e-01
+degree = 113   max nev after orthogonalization = 5.177650651649805e-297   repN = 1   norm was: 3.197230157730806e-01
+degree = 114   max nev after orthogonalization = 4.282436780338590e-297   repN = 1   norm was: 3.047662474756017e-01
+degree = 115   max nev after orthogonalization = 8.356589702369939e-297   repN = 1   norm was: 2.902727435709547e-01
+degree = 116   max nev after orthogonalization = 6.949346572487903e-297   repN = 1   norm was: 2.762408568278036e-01
+degree = 117   max nev after orthogonalization = 1.360843979443658e-296   repN = 1   norm was: 2.626682988590870e-01
+degree = 118   max nev after orthogonalization = 1.137764030534808e-296   repN = 1   norm was: 2.495521538119491e-01
+degree = 119   max nev after orthogonalization = 2.235876739235023e-296   repN = 1   norm was: 2.368888941421863e-01
+degree = 120   max nev after orthogonalization = 1.879263798863016e-296   repN = 1   norm was: 2.246743983728108e-01
+degree = 121   max nev after orthogonalization = 3.706043658098636e-296   repN = 1   norm was: 2.129039707276016e-01
+degree = 122   max nev after orthogonalization = 3.131312149138293e-296   repN = 1   norm was: 2.015723625224267e-01
+degree = 123   max nev after orthogonalization = 6.196847352403811e-296   repN = 1   norm was: 1.906737951897317e-01
+degree = 124   max nev after orthogonalization = 5.263054580262497e-296   repN = 1   norm was: 1.802019848049614e-01
+degree = 125   max nev after orthogonalization = 1.045204941460372e-295   repN = 1   norm was: 1.701501679778555e-01
+degree = 126   max nev after orthogonalization = 8.922714184618133e-296   repN = 1   norm was: 1.605111289665806e-01
+degree = 127   max nev after orthogonalization = 1.778186957858481e-295   repN = 1   norm was: 1.512772278685671e-01
+degree = 128   max nev after orthogonalization = 1.525733837301355e-295   repN = 1   norm was: 1.424404297387282e-01
+degree = 129   max nev after orthogonalization = 3.051212979347529e-295   repN = 1   norm was: 1.339923344834854e-01
+degree = 130   max nev after orthogonalization = 2.631230683090786e-295   repN = 1   norm was: 1.259242073777080e-01
+degree = 131   max nev after orthogonalization = 5.280350227942733e-295   repN = 1   norm was: 1.182270100513021e-01
+degree = 132   max nev after orthogonalization = 4.576291873963173e-295   repN = 1   norm was: 1.108914317927648e-01
+degree = 133   max nev after orthogonalization = 9.215612401075177e-295   repN = 1   norm was: 1.039079210185174e-01
+degree = 134   max nev after orthogonalization = 8.026387403261632e-295   repN = 1   norm was: 9.726671675925476e-02
+degree = 135   max nev after orthogonalization = 1.621936316618683e-294   repN = 1   norm was: 9.095788001784802e-02
+degree = 136   max nev after orthogonalization = 1.419566095845745e-294   repN = 1   norm was: 8.497132485749459e-02
+degree = 137   max nev after orthogonalization = 2.878518792104201e-294   repN = 1   norm was: 7.929684908377449e-02
+degree = 138   max nev after orthogonalization = 2.531618802435189e-294   repN = 1   norm was: 7.392416439000229e-02
+degree = 139   max nev after orthogonalization = 5.151196460062642e-294   repN = 1   norm was: 6.884292584170305e-02
+degree = 140   max nev after orthogonalization = 4.552257829268522e-294   repN = 1   norm was: 6.404276058313169e-02
+degree = 141   max nev after orthogonalization = 9.294575628866446e-294   repN = 1   norm was: 5.951329565643389e-02
+degree = 142   max nev after orthogonalization = 8.253161910875679e-294   repN = 1   norm was: 5.524418483224469e-02
+degree = 143   max nev after orthogonalization = 1.690879201892300e-293   repN = 1   norm was: 5.122513435916777e-02
+degree = 144   max nev after orthogonalization = 1.508545702971642e-293   repN = 1   norm was: 4.744592754859931e-02
+degree = 145   max nev after orthogonalization = 3.101250190873604e-293   repN = 1   norm was: 4.389644812067965e-02
+degree = 146   max nev after orthogonalization = 2.779849298580775e-293   repN = 1   norm was: 4.056670224669611e-02
+degree = 147   max nev after orthogonalization = 5.734325371161065e-293   repN = 1   norm was: 3.744683923294357e-02
+degree = 148   max nev after orthogonalization = 5.164035489851800e-293   repN = 1   norm was: 3.452717080079847e-02
+degree = 149   max nev after orthogonalization = 1.068881843769339e-292   repN = 1   norm was: 3.179818892750019e-02
+degree = 150   max nev after orthogonalization = 9.670374506609023e-293   repN = 1   norm was: 2.925058222178667e-02
+degree = 151   max nev after orthogonalization = 2.008444604283807e-292   repN = 1   norm was: 2.687525081802699e-02
+degree = 152   max nev after orthogonalization = 1.825428365224711e-292   repN = 1   norm was: 2.466331978176300e-02
+degree = 153   max nev after orthogonalization = 3.804119446041589e-292   repN = 1   norm was: 2.260615102855038e-02
+degree = 154   max nev after orthogonalization = 3.473244949215994e-292   repN = 1   norm was: 2.069535376661571e-02
+degree = 155   max nev after orthogonalization = 7.262635953617243e-292   repN = 1   norm was: 1.892279348206432e-02
+degree = 156   max nev after orthogonalization = 6.660965661572906e-292   repN = 1   norm was: 1.728059949313399e-02
+degree = 157   max nev after orthogonalization = 1.397533792539914e-291   repN = 1   norm was: 1.576117110724609e-02
+degree = 158   max nev after orthogonalization = 1.287515683214479e-291   repN = 1   norm was: 1.435718242132036e-02
+degree = 159   max nev after orthogonalization = 2.710445513447677e-291   repN = 1   norm was: 1.306158581195976e-02
+degree = 160   max nev after orthogonalization = 2.508211325176663e-291   repN = 1   norm was: 1.186761416765020e-02
+degree = 161   max nev after orthogonalization = 5.298001751645230e-291   repN = 1   norm was: 1.076878192003838e-02
+degree = 162   max nev after orthogonalization = 4.924419108495183e-291   repN = 1   norm was: 9.758884935634063e-03
+degree = 163   max nev after orthogonalization = 1.043661369312332e-290   repN = 1   norm was: 8.831999332925513e-03
+degree = 164   max nev after orthogonalization = 9.743354388060810e-291   repN = 1   norm was: 7.982479292896232e-03
+degree = 165   max nev after orthogonalization = 2.071889324129891e-290   repN = 1   norm was: 7.204953933293739e-03
+degree = 166   max nev after orthogonalization = 1.942711024030098e-290   repN = 1   norm was: 6.494323318736823e-03
+degree = 167   max nev after orthogonalization = 4.144923811890273e-290   repN = 1   norm was: 5.845753679873352e-03
+degree = 168   max nev after orthogonalization = 3.903354581064848e-290   repN = 1   norm was: 5.254671915337028e-03
+degree = 169   max nev after orthogonalization = 8.355905159382910e-290   repN = 1   norm was: 4.716759450224369e-03
+degree = 170   max nev after orthogonalization = 7.902819111705999e-290   repN = 1   norm was: 4.227945524252491e-03
+degree = 171   max nev after orthogonalization = 1.697389685260151e-289   repN = 1   norm was: 3.784399981697229e-03
+degree = 172   max nev after orthogonalization = 1.612221510198059e-289   repN = 1   norm was: 3.382525633686442e-03
+degree = 173   max nev after orthogonalization = 3.474282510888826e-289   repN = 1   norm was: 3.018950261473892e-03
+degree = 174   max nev after orthogonalization = 3.313985868230162e-289   repN = 1   norm was: 2.690518326985992e-03
+degree = 175   max nev after orthogonalization = 7.165209057359407e-289   repN = 1   norm was: 2.394282454259453e-03
+degree = 176   max nev after orthogonalization = 6.863485755232726e-289   repN = 1   norm was: 2.127494742415850e-03
+degree = 177   max nev after orthogonalization = 1.488872984323119e-288   repN = 1   norm was: 1.887597967593249e-03
+degree = 178   max nev after orthogonalization = 1.432161724103660e-288   repN = 1   norm was: 1.672216727819029e-03
+degree = 179   max nev after orthogonalization = 3.116998461384370e-288   repN = 1   norm was: 1.479148581205063e-03
+degree = 180   max nev after orthogonalization = 3.010772531632610e-288   repN = 1   norm was: 1.306355224118731e-03
+degree = 181   max nev after orthogonalization = 6.574322504659400e-288   repN = 1   norm was: 1.151953752171534e-03
+degree = 182   max nev after orthogonalization = 6.376581418630964e-288   repN = 1   norm was: 1.014208043010462e-03
+degree = 183   max nev after orthogonalization = 1.396967919292141e-287   repN = 1   norm was: 8.915202960324873e-04
+degree = 184   max nev after orthogonalization = 1.360528622078325e-287   repN = 1   norm was: 7.824227603042980e-04
+degree = 185   max nev after orthogonalization = 2.990395340158612e-287   repN = 1   norm was: 6.855696781893850e-04
+degree = 186   max nev after orthogonalization = 2.924308514614758e-287   repN = 1   norm was: 5.997294684920718e-04
+degree = 187   max nev after orthogonalization = 6.448570586207072e-287   repN = 1   norm was: 5.237771693490701e-04
+degree = 188   max nev after orthogonalization = 6.331703077498553e-287   repN = 1   norm was: 4.566871576568306e-04
+degree = 189   max nev after orthogonalization = 1.400803131495788e-286   repN = 1   norm was: 3.975261585373011e-04
+degree = 190   max nev after orthogonalization = 1.380975693225049e-286   repN = 1   norm was: 3.454465552326208e-04
+degree = 191   max nev after orthogonalization = 3.065179038821105e-286   repN = 1   norm was: 2.996800068946038e-04
+degree = 192   max nev after orthogonalization = 3.033934109846320e-286   repN = 1   norm was: 2.595313790084185e-04
+degree = 193   max nev after orthogonalization = 6.755945946444839e-286   repN = 1   norm was: 2.243729886695858e-04
+degree = 194   max nev after orthogonalization = 6.713786356550411e-286   repN = 1   norm was: 1.936391646244414e-04
+degree = 195   max nev after orthogonalization = 1.499873777625096e-285   repN = 1   norm was: 1.668211198890854e-04
+degree = 196   max nev after orthogonalization = 1.496431926745778e-285   repN = 1   norm was: 1.434621328806733e-04
+degree = 197   max nev after orthogonalization = 3.353886050536670e-285   repN = 1   norm was: 1.231530313255532e-04
+degree = 198   max nev after orthogonalization = 3.359398041707513e-285   repN = 1   norm was: 1.055279717470605e-04
+degree = 199   max nev after orthogonalization = 7.553598867639711e-285   repN = 1   norm was: 9.026050607577514e-05
+degree = 200   max nev after orthogonalization = 7.595706024111555e-285   repN = 1   norm was: 7.705992585916760e-05
+Orthogonalization done
+Processing window: (1, 384)
+col: 3   win: (1, 384)   deg: 0
+col: 3   win: (1, 384)   deg: 1
+col: 3   win: (1, 384)   deg: 2
+col: 3   win: (1, 384)   deg: 3
+col: 3   win: (1, 384)   deg: 4
+col: 3   win: (1, 384)   deg: 5
+col: 3   win: (1, 384)   deg: 6
+col: 3   win: (1, 384)   deg: 7
+col: 3   win: (1, 384)   deg: 8
+col: 3   win: (1, 384)   deg: 9
+col: 3   win: (1, 384)   deg: 10
+col: 3   win: (1, 384)   deg: 11
+col: 3   win: (1, 384)   deg: 12
+col: 3   win: (1, 384)   deg: 13
+col: 3   win: (1, 384)   deg: 14
+col: 3   win: (1, 384)   deg: 15
+col: 3   win: (1, 384)   deg: 16
+col: 3   win: (1, 384)   deg: 17
+col: 3   win: (1, 384)   deg: 18
+col: 3   win: (1, 384)   deg: 19
+col: 3   win: (1, 384)   deg: 20
+col: 3   win: (1, 384)   deg: 21
+col: 3   win: (1, 384)   deg: 22
+col: 3   win: (1, 384)   deg: 23
+col: 3   win: (1, 384)   deg: 24
+col: 3   win: (1, 384)   deg: 25
+col: 3   win: (1, 384)   deg: 26
+col: 3   win: (1, 384)   deg: 27
+col: 3   win: (1, 384)   deg: 28
+col: 3   win: (1, 384)   deg: 29
+col: 3   win: (1, 384)   deg: 30
+col: 3   win: (1, 384)   deg: 31
+col: 3   win: (1, 384)   deg: 32
+col: 3   win: (1, 384)   deg: 33
+col: 3   win: (1, 384)   deg: 34
+col: 3   win: (1, 384)   deg: 35
+col: 3   win: (1, 384)   deg: 36
+col: 3   win: (1, 384)   deg: 37
+col: 3   win: (1, 384)   deg: 38
+col: 3   win: (1, 384)   deg: 39
+col: 3   win: (1, 384)   deg: 40
+col: 3   win: (1, 384)   deg: 41
+col: 3   win: (1, 384)   deg: 42
+col: 3   win: (1, 384)   deg: 43
+col: 3   win: (1, 384)   deg: 44
+col: 3   win: (1, 384)   deg: 45
+col: 3   win: (1, 384)   deg: 46
+col: 3   win: (1, 384)   deg: 47
+col: 3   win: (1, 384)   deg: 48
+col: 3   win: (1, 384)   deg: 49
+col: 3   win: (1, 384)   deg: 50 written!
+col: 3   win: (1, 384)   deg: 51
+col: 3   win: (1, 384)   deg: 52
+col: 3   win: (1, 384)   deg: 53
+col: 3   win: (1, 384)   deg: 54
+col: 3   win: (1, 384)   deg: 55
+col: 3   win: (1, 384)   deg: 56
+col: 3   win: (1, 384)   deg: 57
+col: 3   win: (1, 384)   deg: 58
+col: 3   win: (1, 384)   deg: 59
+col: 3   win: (1, 384)   deg: 60
+col: 3   win: (1, 384)   deg: 61
+col: 3   win: (1, 384)   deg: 62
+col: 3   win: (1, 384)   deg: 63
+col: 3   win: (1, 384)   deg: 64
+col: 3   win: (1, 384)   deg: 65
+col: 3   win: (1, 384)   deg: 66
+col: 3   win: (1, 384)   deg: 67
+col: 3   win: (1, 384)   deg: 68
+col: 3   win: (1, 384)   deg: 69
+col: 3   win: (1, 384)   deg: 70
+col: 3   win: (1, 384)   deg: 71
+col: 3   win: (1, 384)   deg: 72
+col: 3   win: (1, 384)   deg: 73
+col: 3   win: (1, 384)   deg: 74
+col: 3   win: (1, 384)   deg: 75
+col: 3   win: (1, 384)   deg: 76
+col: 3   win: (1, 384)   deg: 77
+col: 3   win: (1, 384)   deg: 78
+col: 3   win: (1, 384)   deg: 79
+col: 3   win: (1, 384)   deg: 80
+col: 3   win: (1, 384)   deg: 81
+col: 3   win: (1, 384)   deg: 82
+col: 3   win: (1, 384)   deg: 83
+col: 3   win: (1, 384)   deg: 84
+col: 3   win: (1, 384)   deg: 85
+col: 3   win: (1, 384)   deg: 86
+col: 3   win: (1, 384)   deg: 87
+col: 3   win: (1, 384)   deg: 88
+col: 3   win: (1, 384)   deg: 89
+col: 3   win: (1, 384)   deg: 90
+col: 3   win: (1, 384)   deg: 91
+col: 3   win: (1, 384)   deg: 92
+col: 3   win: (1, 384)   deg: 93
+col: 3   win: (1, 384)   deg: 94
+col: 3   win: (1, 384)   deg: 95
+col: 3   win: (1, 384)   deg: 96
+col: 3   win: (1, 384)   deg: 97
+col: 3   win: (1, 384)   deg: 98
+col: 3   win: (1, 384)   deg: 99
+col: 3   win: (1, 384)   deg: 100 written!
+col: 3   win: (1, 384)   deg: 101
+col: 3   win: (1, 384)   deg: 102
+col: 3   win: (1, 384)   deg: 103
+col: 3   win: (1, 384)   deg: 104
+col: 3   win: (1, 384)   deg: 105
+col: 3   win: (1, 384)   deg: 106
+col: 3   win: (1, 384)   deg: 107
+col: 3   win: (1, 384)   deg: 108
+col: 3   win: (1, 384)   deg: 109
+col: 3   win: (1, 384)   deg: 110
+col: 3   win: (1, 384)   deg: 111
+col: 3   win: (1, 384)   deg: 112
+col: 3   win: (1, 384)   deg: 113
+col: 3   win: (1, 384)   deg: 114
+col: 3   win: (1, 384)   deg: 115
+col: 3   win: (1, 384)   deg: 116
+col: 3   win: (1, 384)   deg: 117
+col: 3   win: (1, 384)   deg: 118
+col: 3   win: (1, 384)   deg: 119
+col: 3   win: (1, 384)   deg: 120
+col: 3   win: (1, 384)   deg: 121
+col: 3   win: (1, 384)   deg: 122
+col: 3   win: (1, 384)   deg: 123
+col: 3   win: (1, 384)   deg: 124
+col: 3   win: (1, 384)   deg: 125
+col: 3   win: (1, 384)   deg: 126
+col: 3   win: (1, 384)   deg: 127
+col: 3   win: (1, 384)   deg: 128
+col: 3   win: (1, 384)   deg: 129
+col: 3   win: (1, 384)   deg: 130
+col: 3   win: (1, 384)   deg: 131
+col: 3   win: (1, 384)   deg: 132
+col: 3   win: (1, 384)   deg: 133
+col: 3   win: (1, 384)   deg: 134
+col: 3   win: (1, 384)   deg: 135
+col: 3   win: (1, 384)   deg: 136
+col: 3   win: (1, 384)   deg: 137
+col: 3   win: (1, 384)   deg: 138
+col: 3   win: (1, 384)   deg: 139
+col: 3   win: (1, 384)   deg: 140
+col: 3   win: (1, 384)   deg: 141
+col: 3   win: (1, 384)   deg: 142
+col: 3   win: (1, 384)   deg: 143
+col: 3   win: (1, 384)   deg: 144
+col: 3   win: (1, 384)   deg: 145
+col: 3   win: (1, 384)   deg: 146
+col: 3   win: (1, 384)   deg: 147
+col: 3   win: (1, 384)   deg: 148
+col: 3   win: (1, 384)   deg: 149
+col: 3   win: (1, 384)   deg: 150 written!
+col: 3   win: (1, 384)   deg: 151
+col: 3   win: (1, 384)   deg: 152
+col: 3   win: (1, 384)   deg: 153
+col: 3   win: (1, 384)   deg: 154
+col: 3   win: (1, 384)   deg: 155
+col: 3   win: (1, 384)   deg: 156
+col: 3   win: (1, 384)   deg: 157
+col: 3   win: (1, 384)   deg: 158
+col: 3   win: (1, 384)   deg: 159
+col: 3   win: (1, 384)   deg: 160
+col: 3   win: (1, 384)   deg: 161
+col: 3   win: (1, 384)   deg: 162
+col: 3   win: (1, 384)   deg: 163
+col: 3   win: (1, 384)   deg: 164
+col: 3   win: (1, 384)   deg: 165
+col: 3   win: (1, 384)   deg: 166
+col: 3   win: (1, 384)   deg: 167
+col: 3   win: (1, 384)   deg: 168
+col: 3   win: (1, 384)   deg: 169
+col: 3   win: (1, 384)   deg: 170
+col: 3   win: (1, 384)   deg: 171
+col: 3   win: (1, 384)   deg: 172
+col: 3   win: (1, 384)   deg: 173
+col: 3   win: (1, 384)   deg: 174
+col: 3   win: (1, 384)   deg: 175
+col: 3   win: (1, 384)   deg: 176
+col: 3   win: (1, 384)   deg: 177
+col: 3   win: (1, 384)   deg: 178
+col: 3   win: (1, 384)   deg: 179
+col: 3   win: (1, 384)   deg: 180
+col: 3   win: (1, 384)   deg: 181
+col: 3   win: (1, 384)   deg: 182
+col: 3   win: (1, 384)   deg: 183
+col: 3   win: (1, 384)   deg: 184
+col: 3   win: (1, 384)   deg: 185
+col: 3   win: (1, 384)   deg: 186
+col: 3   win: (1, 384)   deg: 187
+col: 3   win: (1, 384)   deg: 188
+col: 3   win: (1, 384)   deg: 189
+col: 3   win: (1, 384)   deg: 190
+col: 3   win: (1, 384)   deg: 191
+col: 3   win: (1, 384)   deg: 192
+col: 3   win: (1, 384)   deg: 193
+col: 3   win: (1, 384)   deg: 194
+col: 3   win: (1, 384)   deg: 195
+col: 3   win: (1, 384)   deg: 196
+col: 3   win: (1, 384)   deg: 197
+col: 3   win: (1, 384)   deg: 198
+col: 3   win: (1, 384)   deg: 199
+col: 3   win: (1, 384)   deg: 200 written!
+col: 4   win: (1, 384)   deg: 0
+col: 4   win: (1, 384)   deg: 1
+col: 4   win: (1, 384)   deg: 2
+col: 4   win: (1, 384)   deg: 3
+col: 4   win: (1, 384)   deg: 4
+col: 4   win: (1, 384)   deg: 5
+col: 4   win: (1, 384)   deg: 6
+col: 4   win: (1, 384)   deg: 7
+col: 4   win: (1, 384)   deg: 8
+col: 4   win: (1, 384)   deg: 9
+col: 4   win: (1, 384)   deg: 10
+col: 4   win: (1, 384)   deg: 11
+col: 4   win: (1, 384)   deg: 12
+col: 4   win: (1, 384)   deg: 13
+col: 4   win: (1, 384)   deg: 14
+col: 4   win: (1, 384)   deg: 15
+col: 4   win: (1, 384)   deg: 16
+col: 4   win: (1, 384)   deg: 17
+col: 4   win: (1, 384)   deg: 18
+col: 4   win: (1, 384)   deg: 19
+col: 4   win: (1, 384)   deg: 20
+col: 4   win: (1, 384)   deg: 21
+col: 4   win: (1, 384)   deg: 22
+col: 4   win: (1, 384)   deg: 23
+col: 4   win: (1, 384)   deg: 24
+col: 4   win: (1, 384)   deg: 25
+col: 4   win: (1, 384)   deg: 26
+col: 4   win: (1, 384)   deg: 27
+col: 4   win: (1, 384)   deg: 28
+col: 4   win: (1, 384)   deg: 29
+col: 4   win: (1, 384)   deg: 30
+col: 4   win: (1, 384)   deg: 31
+col: 4   win: (1, 384)   deg: 32
+col: 4   win: (1, 384)   deg: 33
+col: 4   win: (1, 384)   deg: 34
+col: 4   win: (1, 384)   deg: 35
+col: 4   win: (1, 384)   deg: 36
+col: 4   win: (1, 384)   deg: 37
+col: 4   win: (1, 384)   deg: 38
+col: 4   win: (1, 384)   deg: 39
+col: 4   win: (1, 384)   deg: 40
+col: 4   win: (1, 384)   deg: 41
+col: 4   win: (1, 384)   deg: 42
+col: 4   win: (1, 384)   deg: 43
+col: 4   win: (1, 384)   deg: 44
+col: 4   win: (1, 384)   deg: 45
+col: 4   win: (1, 384)   deg: 46
+col: 4   win: (1, 384)   deg: 47
+col: 4   win: (1, 384)   deg: 48
+col: 4   win: (1, 384)   deg: 49
+col: 4   win: (1, 384)   deg: 50 written!
+col: 4   win: (1, 384)   deg: 51
+col: 4   win: (1, 384)   deg: 52
+col: 4   win: (1, 384)   deg: 53
+col: 4   win: (1, 384)   deg: 54
+col: 4   win: (1, 384)   deg: 55
+col: 4   win: (1, 384)   deg: 56
+col: 4   win: (1, 384)   deg: 57
+col: 4   win: (1, 384)   deg: 58
+col: 4   win: (1, 384)   deg: 59
+col: 4   win: (1, 384)   deg: 60
+col: 4   win: (1, 384)   deg: 61
+col: 4   win: (1, 384)   deg: 62
+col: 4   win: (1, 384)   deg: 63
+col: 4   win: (1, 384)   deg: 64
+col: 4   win: (1, 384)   deg: 65
+col: 4   win: (1, 384)   deg: 66
+col: 4   win: (1, 384)   deg: 67
+col: 4   win: (1, 384)   deg: 68
+col: 4   win: (1, 384)   deg: 69
+col: 4   win: (1, 384)   deg: 70
+col: 4   win: (1, 384)   deg: 71
+col: 4   win: (1, 384)   deg: 72
+col: 4   win: (1, 384)   deg: 73
+col: 4   win: (1, 384)   deg: 74
+col: 4   win: (1, 384)   deg: 75
+col: 4   win: (1, 384)   deg: 76
+col: 4   win: (1, 384)   deg: 77
+col: 4   win: (1, 384)   deg: 78
+col: 4   win: (1, 384)   deg: 79
+col: 4   win: (1, 384)   deg: 80
+col: 4   win: (1, 384)   deg: 81
+col: 4   win: (1, 384)   deg: 82
+col: 4   win: (1, 384)   deg: 83
+col: 4   win: (1, 384)   deg: 84
+col: 4   win: (1, 384)   deg: 85
+col: 4   win: (1, 384)   deg: 86
+col: 4   win: (1, 384)   deg: 87
+col: 4   win: (1, 384)   deg: 88
+col: 4   win: (1, 384)   deg: 89
+col: 4   win: (1, 384)   deg: 90
+col: 4   win: (1, 384)   deg: 91
+col: 4   win: (1, 384)   deg: 92
+col: 4   win: (1, 384)   deg: 93
+col: 4   win: (1, 384)   deg: 94
+col: 4   win: (1, 384)   deg: 95
+col: 4   win: (1, 384)   deg: 96
+col: 4   win: (1, 384)   deg: 97
+col: 4   win: (1, 384)   deg: 98
+col: 4   win: (1, 384)   deg: 99
+col: 4   win: (1, 384)   deg: 100 written!
+col: 4   win: (1, 384)   deg: 101
+col: 4   win: (1, 384)   deg: 102
+col: 4   win: (1, 384)   deg: 103
+col: 4   win: (1, 384)   deg: 104
+col: 4   win: (1, 384)   deg: 105
+col: 4   win: (1, 384)   deg: 106
+col: 4   win: (1, 384)   deg: 107
+col: 4   win: (1, 384)   deg: 108
+col: 4   win: (1, 384)   deg: 109
+col: 4   win: (1, 384)   deg: 110
+col: 4   win: (1, 384)   deg: 111
+col: 4   win: (1, 384)   deg: 112
+col: 4   win: (1, 384)   deg: 113
+col: 4   win: (1, 384)   deg: 114
+col: 4   win: (1, 384)   deg: 115
+col: 4   win: (1, 384)   deg: 116
+col: 4   win: (1, 384)   deg: 117
+col: 4   win: (1, 384)   deg: 118
+col: 4   win: (1, 384)   deg: 119
+col: 4   win: (1, 384)   deg: 120
+col: 4   win: (1, 384)   deg: 121
+col: 4   win: (1, 384)   deg: 122
+col: 4   win: (1, 384)   deg: 123
+col: 4   win: (1, 384)   deg: 124
+col: 4   win: (1, 384)   deg: 125
+col: 4   win: (1, 384)   deg: 126
+col: 4   win: (1, 384)   deg: 127
+col: 4   win: (1, 384)   deg: 128
+col: 4   win: (1, 384)   deg: 129
+col: 4   win: (1, 384)   deg: 130
+col: 4   win: (1, 384)   deg: 131
+col: 4   win: (1, 384)   deg: 132
+col: 4   win: (1, 384)   deg: 133
+col: 4   win: (1, 384)   deg: 134
+col: 4   win: (1, 384)   deg: 135
+col: 4   win: (1, 384)   deg: 136
+col: 4   win: (1, 384)   deg: 137
+col: 4   win: (1, 384)   deg: 138
+col: 4   win: (1, 384)   deg: 139
+col: 4   win: (1, 384)   deg: 140
+col: 4   win: (1, 384)   deg: 141
+col: 4   win: (1, 384)   deg: 142
+col: 4   win: (1, 384)   deg: 143
+col: 4   win: (1, 384)   deg: 144
+col: 4   win: (1, 384)   deg: 145
+col: 4   win: (1, 384)   deg: 146
+col: 4   win: (1, 384)   deg: 147
+col: 4   win: (1, 384)   deg: 148
+col: 4   win: (1, 384)   deg: 149
+col: 4   win: (1, 384)   deg: 150 written!
+col: 4   win: (1, 384)   deg: 151
+col: 4   win: (1, 384)   deg: 152
+col: 4   win: (1, 384)   deg: 153
+col: 4   win: (1, 384)   deg: 154
+col: 4   win: (1, 384)   deg: 155
+col: 4   win: (1, 384)   deg: 156
+col: 4   win: (1, 384)   deg: 157
+col: 4   win: (1, 384)   deg: 158
+col: 4   win: (1, 384)   deg: 159
+col: 4   win: (1, 384)   deg: 160
+col: 4   win: (1, 384)   deg: 161
+col: 4   win: (1, 384)   deg: 162
+col: 4   win: (1, 384)   deg: 163
+col: 4   win: (1, 384)   deg: 164
+col: 4   win: (1, 384)   deg: 165
+col: 4   win: (1, 384)   deg: 166
+col: 4   win: (1, 384)   deg: 167
+col: 4   win: (1, 384)   deg: 168
+col: 4   win: (1, 384)   deg: 169
+col: 4   win: (1, 384)   deg: 170
+col: 4   win: (1, 384)   deg: 171
+col: 4   win: (1, 384)   deg: 172
+col: 4   win: (1, 384)   deg: 173
+col: 4   win: (1, 384)   deg: 174
+col: 4   win: (1, 384)   deg: 175
+col: 4   win: (1, 384)   deg: 176
+col: 4   win: (1, 384)   deg: 177
+col: 4   win: (1, 384)   deg: 178
+col: 4   win: (1, 384)   deg: 179
+col: 4   win: (1, 384)   deg: 180
+col: 4   win: (1, 384)   deg: 181
+col: 4   win: (1, 384)   deg: 182
+col: 4   win: (1, 384)   deg: 183
+col: 4   win: (1, 384)   deg: 184
+col: 4   win: (1, 384)   deg: 185
+col: 4   win: (1, 384)   deg: 186
+col: 4   win: (1, 384)   deg: 187
+col: 4   win: (1, 384)   deg: 188
+col: 4   win: (1, 384)   deg: 189
+col: 4   win: (1, 384)   deg: 190
+col: 4   win: (1, 384)   deg: 191
+col: 4   win: (1, 384)   deg: 192
+col: 4   win: (1, 384)   deg: 193
+col: 4   win: (1, 384)   deg: 194
+col: 4   win: (1, 384)   deg: 195
+col: 4   win: (1, 384)   deg: 196
+col: 4   win: (1, 384)   deg: 197
+col: 4   win: (1, 384)   deg: 198
+col: 4   win: (1, 384)   deg: 199
+col: 4   win: (1, 384)   deg: 200 written!
+col: 5   win: (1, 384)   deg: 0
+col: 5   win: (1, 384)   deg: 1
+col: 5   win: (1, 384)   deg: 2
+col: 5   win: (1, 384)   deg: 3
+col: 5   win: (1, 384)   deg: 4
+col: 5   win: (1, 384)   deg: 5
+col: 5   win: (1, 384)   deg: 6
+col: 5   win: (1, 384)   deg: 7
+col: 5   win: (1, 384)   deg: 8
+col: 5   win: (1, 384)   deg: 9
+col: 5   win: (1, 384)   deg: 10
+col: 5   win: (1, 384)   deg: 11
+col: 5   win: (1, 384)   deg: 12
+col: 5   win: (1, 384)   deg: 13
+col: 5   win: (1, 384)   deg: 14
+col: 5   win: (1, 384)   deg: 15
+col: 5   win: (1, 384)   deg: 16
+col: 5   win: (1, 384)   deg: 17
+col: 5   win: (1, 384)   deg: 18
+col: 5   win: (1, 384)   deg: 19
+col: 5   win: (1, 384)   deg: 20
+col: 5   win: (1, 384)   deg: 21
+col: 5   win: (1, 384)   deg: 22
+col: 5   win: (1, 384)   deg: 23
+col: 5   win: (1, 384)   deg: 24
+col: 5   win: (1, 384)   deg: 25
+col: 5   win: (1, 384)   deg: 26
+col: 5   win: (1, 384)   deg: 27
+col: 5   win: (1, 384)   deg: 28
+col: 5   win: (1, 384)   deg: 29
+col: 5   win: (1, 384)   deg: 30
+col: 5   win: (1, 384)   deg: 31
+col: 5   win: (1, 384)   deg: 32
+col: 5   win: (1, 384)   deg: 33
+col: 5   win: (1, 384)   deg: 34
+col: 5   win: (1, 384)   deg: 35
+col: 5   win: (1, 384)   deg: 36
+col: 5   win: (1, 384)   deg: 37
+col: 5   win: (1, 384)   deg: 38
+col: 5   win: (1, 384)   deg: 39
+col: 5   win: (1, 384)   deg: 40
+col: 5   win: (1, 384)   deg: 41
+col: 5   win: (1, 384)   deg: 42
+col: 5   win: (1, 384)   deg: 43
+col: 5   win: (1, 384)   deg: 44
+col: 5   win: (1, 384)   deg: 45
+col: 5   win: (1, 384)   deg: 46
+col: 5   win: (1, 384)   deg: 47
+col: 5   win: (1, 384)   deg: 48
+col: 5   win: (1, 384)   deg: 49
+col: 5   win: (1, 384)   deg: 50 written!
+col: 5   win: (1, 384)   deg: 51
+col: 5   win: (1, 384)   deg: 52
+col: 5   win: (1, 384)   deg: 53
+col: 5   win: (1, 384)   deg: 54
+col: 5   win: (1, 384)   deg: 55
+col: 5   win: (1, 384)   deg: 56
+col: 5   win: (1, 384)   deg: 57
+col: 5   win: (1, 384)   deg: 58
+col: 5   win: (1, 384)   deg: 59
+col: 5   win: (1, 384)   deg: 60
+col: 5   win: (1, 384)   deg: 61
+col: 5   win: (1, 384)   deg: 62
+col: 5   win: (1, 384)   deg: 63
+col: 5   win: (1, 384)   deg: 64
+col: 5   win: (1, 384)   deg: 65
+col: 5   win: (1, 384)   deg: 66
+col: 5   win: (1, 384)   deg: 67
+col: 5   win: (1, 384)   deg: 68
+col: 5   win: (1, 384)   deg: 69
+col: 5   win: (1, 384)   deg: 70
+col: 5   win: (1, 384)   deg: 71
+col: 5   win: (1, 384)   deg: 72
+col: 5   win: (1, 384)   deg: 73
+col: 5   win: (1, 384)   deg: 74
+col: 5   win: (1, 384)   deg: 75
+col: 5   win: (1, 384)   deg: 76
+col: 5   win: (1, 384)   deg: 77
+col: 5   win: (1, 384)   deg: 78
+col: 5   win: (1, 384)   deg: 79
+col: 5   win: (1, 384)   deg: 80
+col: 5   win: (1, 384)   deg: 81
+col: 5   win: (1, 384)   deg: 82
+col: 5   win: (1, 384)   deg: 83
+col: 5   win: (1, 384)   deg: 84
+col: 5   win: (1, 384)   deg: 85
+col: 5   win: (1, 384)   deg: 86
+col: 5   win: (1, 384)   deg: 87
+col: 5   win: (1, 384)   deg: 88
+col: 5   win: (1, 384)   deg: 89
+col: 5   win: (1, 384)   deg: 90
+col: 5   win: (1, 384)   deg: 91
+col: 5   win: (1, 384)   deg: 92
+col: 5   win: (1, 384)   deg: 93
+col: 5   win: (1, 384)   deg: 94
+col: 5   win: (1, 384)   deg: 95
+col: 5   win: (1, 384)   deg: 96
+col: 5   win: (1, 384)   deg: 97
+col: 5   win: (1, 384)   deg: 98
+col: 5   win: (1, 384)   deg: 99
+col: 5   win: (1, 384)   deg: 100 written!
+col: 5   win: (1, 384)   deg: 101
+col: 5   win: (1, 384)   deg: 102
+col: 5   win: (1, 384)   deg: 103
+col: 5   win: (1, 384)   deg: 104
+col: 5   win: (1, 384)   deg: 105
+col: 5   win: (1, 384)   deg: 106
+col: 5   win: (1, 384)   deg: 107
+col: 5   win: (1, 384)   deg: 108
+col: 5   win: (1, 384)   deg: 109
+col: 5   win: (1, 384)   deg: 110
+col: 5   win: (1, 384)   deg: 111
+col: 5   win: (1, 384)   deg: 112
+col: 5   win: (1, 384)   deg: 113
+col: 5   win: (1, 384)   deg: 114
+col: 5   win: (1, 384)   deg: 115
+col: 5   win: (1, 384)   deg: 116
+col: 5   win: (1, 384)   deg: 117
+col: 5   win: (1, 384)   deg: 118
+col: 5   win: (1, 384)   deg: 119
+col: 5   win: (1, 384)   deg: 120
+col: 5   win: (1, 384)   deg: 121
+col: 5   win: (1, 384)   deg: 122
+col: 5   win: (1, 384)   deg: 123
+col: 5   win: (1, 384)   deg: 124
+col: 5   win: (1, 384)   deg: 125
+col: 5   win: (1, 384)   deg: 126
+col: 5   win: (1, 384)   deg: 127
+col: 5   win: (1, 384)   deg: 128
+col: 5   win: (1, 384)   deg: 129
+col: 5   win: (1, 384)   deg: 130
+col: 5   win: (1, 384)   deg: 131
+col: 5   win: (1, 384)   deg: 132
+col: 5   win: (1, 384)   deg: 133
+col: 5   win: (1, 384)   deg: 134
+col: 5   win: (1, 384)   deg: 135
+col: 5   win: (1, 384)   deg: 136
+col: 5   win: (1, 384)   deg: 137
+col: 5   win: (1, 384)   deg: 138
+col: 5   win: (1, 384)   deg: 139
+col: 5   win: (1, 384)   deg: 140
+col: 5   win: (1, 384)   deg: 141
+col: 5   win: (1, 384)   deg: 142
+col: 5   win: (1, 384)   deg: 143
+col: 5   win: (1, 384)   deg: 144
+col: 5   win: (1, 384)   deg: 145
+col: 5   win: (1, 384)   deg: 146
+col: 5   win: (1, 384)   deg: 147
+col: 5   win: (1, 384)   deg: 148
+col: 5   win: (1, 384)   deg: 149
+col: 5   win: (1, 384)   deg: 150 written!
+col: 5   win: (1, 384)   deg: 151
+col: 5   win: (1, 384)   deg: 152
+col: 5   win: (1, 384)   deg: 153
+col: 5   win: (1, 384)   deg: 154
+col: 5   win: (1, 384)   deg: 155
+col: 5   win: (1, 384)   deg: 156
+col: 5   win: (1, 384)   deg: 157
+col: 5   win: (1, 384)   deg: 158
+col: 5   win: (1, 384)   deg: 159
+col: 5   win: (1, 384)   deg: 160
+col: 5   win: (1, 384)   deg: 161
+col: 5   win: (1, 384)   deg: 162
+col: 5   win: (1, 384)   deg: 163
+col: 5   win: (1, 384)   deg: 164
+col: 5   win: (1, 384)   deg: 165
+col: 5   win: (1, 384)   deg: 166
+col: 5   win: (1, 384)   deg: 167
+col: 5   win: (1, 384)   deg: 168
+col: 5   win: (1, 384)   deg: 169
+col: 5   win: (1, 384)   deg: 170
+col: 5   win: (1, 384)   deg: 171
+col: 5   win: (1, 384)   deg: 172
+col: 5   win: (1, 384)   deg: 173
+col: 5   win: (1, 384)   deg: 174
+col: 5   win: (1, 384)   deg: 175
+col: 5   win: (1, 384)   deg: 176
+col: 5   win: (1, 384)   deg: 177
+col: 5   win: (1, 384)   deg: 178
+col: 5   win: (1, 384)   deg: 179
+col: 5   win: (1, 384)   deg: 180
+col: 5   win: (1, 384)   deg: 181
+col: 5   win: (1, 384)   deg: 182
+col: 5   win: (1, 384)   deg: 183
+col: 5   win: (1, 384)   deg: 184
+col: 5   win: (1, 384)   deg: 185
+col: 5   win: (1, 384)   deg: 186
+col: 5   win: (1, 384)   deg: 187
+col: 5   win: (1, 384)   deg: 188
+col: 5   win: (1, 384)   deg: 189
+col: 5   win: (1, 384)   deg: 190
+col: 5   win: (1, 384)   deg: 191
+col: 5   win: (1, 384)   deg: 192
+col: 5   win: (1, 384)   deg: 193
+col: 5   win: (1, 384)   deg: 194
+col: 5   win: (1, 384)   deg: 195
+col: 5   win: (1, 384)   deg: 196
+col: 5   win: (1, 384)   deg: 197
+col: 5   win: (1, 384)   deg: 198
+col: 5   win: (1, 384)   deg: 199
+col: 5   win: (1, 384)   deg: 200 written!
+equ_G02-test.txt_col[2,3-5]_degs[50-50-150,200]_w[1-384-96-end]_prec1000 (1, 384) 4.261648192195969e-06	1.141215592879272e-05	4.697678305239551e-06
+Processing window: (193, 576)
+col: 3   win: (193, 576)   deg: 0
+col: 3   win: (193, 576)   deg: 1
+col: 3   win: (193, 576)   deg: 2
+col: 3   win: (193, 576)   deg: 3
+col: 3   win: (193, 576)   deg: 4
+col: 3   win: (193, 576)   deg: 5
+col: 3   win: (193, 576)   deg: 6
+col: 3   win: (193, 576)   deg: 7
+col: 3   win: (193, 576)   deg: 8
+col: 3   win: (193, 576)   deg: 9
+col: 3   win: (193, 576)   deg: 10
+col: 3   win: (193, 576)   deg: 11
+col: 3   win: (193, 576)   deg: 12
+col: 3   win: (193, 576)   deg: 13
+col: 3   win: (193, 576)   deg: 14
+col: 3   win: (193, 576)   deg: 15
+col: 3   win: (193, 576)   deg: 16
+col: 3   win: (193, 576)   deg: 17
+col: 3   win: (193, 576)   deg: 18
+col: 3   win: (193, 576)   deg: 19
+col: 3   win: (193, 576)   deg: 20
+col: 3   win: (193, 576)   deg: 21
+col: 3   win: (193, 576)   deg: 22
+col: 3   win: (193, 576)   deg: 23
+col: 3   win: (193, 576)   deg: 24
+col: 3   win: (193, 576)   deg: 25
+col: 3   win: (193, 576)   deg: 26
+col: 3   win: (193, 576)   deg: 27
+col: 3   win: (193, 576)   deg: 28
+col: 3   win: (193, 576)   deg: 29
+col: 3   win: (193, 576)   deg: 30
+col: 3   win: (193, 576)   deg: 31
+col: 3   win: (193, 576)   deg: 32
+col: 3   win: (193, 576)   deg: 33
+col: 3   win: (193, 576)   deg: 34
+col: 3   win: (193, 576)   deg: 35
+col: 3   win: (193, 576)   deg: 36
+col: 3   win: (193, 576)   deg: 37
+col: 3   win: (193, 576)   deg: 38
+col: 3   win: (193, 576)   deg: 39
+col: 3   win: (193, 576)   deg: 40
+col: 3   win: (193, 576)   deg: 41
+col: 3   win: (193, 576)   deg: 42
+col: 3   win: (193, 576)   deg: 43
+col: 3   win: (193, 576)   deg: 44
+col: 3   win: (193, 576)   deg: 45
+col: 3   win: (193, 576)   deg: 46
+col: 3   win: (193, 576)   deg: 47
+col: 3   win: (193, 576)   deg: 48
+col: 3   win: (193, 576)   deg: 49
+col: 3   win: (193, 576)   deg: 50 written!
+col: 3   win: (193, 576)   deg: 51
+col: 3   win: (193, 576)   deg: 52
+col: 3   win: (193, 576)   deg: 53
+col: 3   win: (193, 576)   deg: 54
+col: 3   win: (193, 576)   deg: 55
+col: 3   win: (193, 576)   deg: 56
+col: 3   win: (193, 576)   deg: 57
+col: 3   win: (193, 576)   deg: 58
+col: 3   win: (193, 576)   deg: 59
+col: 3   win: (193, 576)   deg: 60
+col: 3   win: (193, 576)   deg: 61
+col: 3   win: (193, 576)   deg: 62
+col: 3   win: (193, 576)   deg: 63
+col: 3   win: (193, 576)   deg: 64
+col: 3   win: (193, 576)   deg: 65
+col: 3   win: (193, 576)   deg: 66
+col: 3   win: (193, 576)   deg: 67
+col: 3   win: (193, 576)   deg: 68
+col: 3   win: (193, 576)   deg: 69
+col: 3   win: (193, 576)   deg: 70
+col: 3   win: (193, 576)   deg: 71
+col: 3   win: (193, 576)   deg: 72
+col: 3   win: (193, 576)   deg: 73
+col: 3   win: (193, 576)   deg: 74
+col: 3   win: (193, 576)   deg: 75
+col: 3   win: (193, 576)   deg: 76
+col: 3   win: (193, 576)   deg: 77
+col: 3   win: (193, 576)   deg: 78
+col: 3   win: (193, 576)   deg: 79
+col: 3   win: (193, 576)   deg: 80
+col: 3   win: (193, 576)   deg: 81
+col: 3   win: (193, 576)   deg: 82
+col: 3   win: (193, 576)   deg: 83
+col: 3   win: (193, 576)   deg: 84
+col: 3   win: (193, 576)   deg: 85
+col: 3   win: (193, 576)   deg: 86
+col: 3   win: (193, 576)   deg: 87
+col: 3   win: (193, 576)   deg: 88
+col: 3   win: (193, 576)   deg: 89
+col: 3   win: (193, 576)   deg: 90
+col: 3   win: (193, 576)   deg: 91
+col: 3   win: (193, 576)   deg: 92
+col: 3   win: (193, 576)   deg: 93
+col: 3   win: (193, 576)   deg: 94
+col: 3   win: (193, 576)   deg: 95
+col: 3   win: (193, 576)   deg: 96
+col: 3   win: (193, 576)   deg: 97
+col: 3   win: (193, 576)   deg: 98
+col: 3   win: (193, 576)   deg: 99
+col: 3   win: (193, 576)   deg: 100 written!
+col: 3   win: (193, 576)   deg: 101
+col: 3   win: (193, 576)   deg: 102
+col: 3   win: (193, 576)   deg: 103
+col: 3   win: (193, 576)   deg: 104
+col: 3   win: (193, 576)   deg: 105
+col: 3   win: (193, 576)   deg: 106
+col: 3   win: (193, 576)   deg: 107
+col: 3   win: (193, 576)   deg: 108
+col: 3   win: (193, 576)   deg: 109
+col: 3   win: (193, 576)   deg: 110
+col: 3   win: (193, 576)   deg: 111
+col: 3   win: (193, 576)   deg: 112
+col: 3   win: (193, 576)   deg: 113
+col: 3   win: (193, 576)   deg: 114
+col: 3   win: (193, 576)   deg: 115
+col: 3   win: (193, 576)   deg: 116
+col: 3   win: (193, 576)   deg: 117
+col: 3   win: (193, 576)   deg: 118
+col: 3   win: (193, 576)   deg: 119
+col: 3   win: (193, 576)   deg: 120
+col: 3   win: (193, 576)   deg: 121
+col: 3   win: (193, 576)   deg: 122
+col: 3   win: (193, 576)   deg: 123
+col: 3   win: (193, 576)   deg: 124
+col: 3   win: (193, 576)   deg: 125
+col: 3   win: (193, 576)   deg: 126
+col: 3   win: (193, 576)   deg: 127
+col: 3   win: (193, 576)   deg: 128
+col: 3   win: (193, 576)   deg: 129
+col: 3   win: (193, 576)   deg: 130
+col: 3   win: (193, 576)   deg: 131
+col: 3   win: (193, 576)   deg: 132
+col: 3   win: (193, 576)   deg: 133
+col: 3   win: (193, 576)   deg: 134
+col: 3   win: (193, 576)   deg: 135
+col: 3   win: (193, 576)   deg: 136
+col: 3   win: (193, 576)   deg: 137
+col: 3   win: (193, 576)   deg: 138
+col: 3   win: (193, 576)   deg: 139
+col: 3   win: (193, 576)   deg: 140
+col: 3   win: (193, 576)   deg: 141
+col: 3   win: (193, 576)   deg: 142
+col: 3   win: (193, 576)   deg: 143
+col: 3   win: (193, 576)   deg: 144
+col: 3   win: (193, 576)   deg: 145
+col: 3   win: (193, 576)   deg: 146
+col: 3   win: (193, 576)   deg: 147
+col: 3   win: (193, 576)   deg: 148
+col: 3   win: (193, 576)   deg: 149
+col: 3   win: (193, 576)   deg: 150 written!
+col: 3   win: (193, 576)   deg: 151
+col: 3   win: (193, 576)   deg: 152
+col: 3   win: (193, 576)   deg: 153
+col: 3   win: (193, 576)   deg: 154
+col: 3   win: (193, 576)   deg: 155
+col: 3   win: (193, 576)   deg: 156
+col: 3   win: (193, 576)   deg: 157
+col: 3   win: (193, 576)   deg: 158
+col: 3   win: (193, 576)   deg: 159
+col: 3   win: (193, 576)   deg: 160
+col: 3   win: (193, 576)   deg: 161
+col: 3   win: (193, 576)   deg: 162
+col: 3   win: (193, 576)   deg: 163
+col: 3   win: (193, 576)   deg: 164
+col: 3   win: (193, 576)   deg: 165
+col: 3   win: (193, 576)   deg: 166
+col: 3   win: (193, 576)   deg: 167
+col: 3   win: (193, 576)   deg: 168
+col: 3   win: (193, 576)   deg: 169
+col: 3   win: (193, 576)   deg: 170
+col: 3   win: (193, 576)   deg: 171
+col: 3   win: (193, 576)   deg: 172
+col: 3   win: (193, 576)   deg: 173
+col: 3   win: (193, 576)   deg: 174
+col: 3   win: (193, 576)   deg: 175
+col: 3   win: (193, 576)   deg: 176
+col: 3   win: (193, 576)   deg: 177
+col: 3   win: (193, 576)   deg: 178
+col: 3   win: (193, 576)   deg: 179
+col: 3   win: (193, 576)   deg: 180
+col: 3   win: (193, 576)   deg: 181
+col: 3   win: (193, 576)   deg: 182
+col: 3   win: (193, 576)   deg: 183
+col: 3   win: (193, 576)   deg: 184
+col: 3   win: (193, 576)   deg: 185
+col: 3   win: (193, 576)   deg: 186
+col: 3   win: (193, 576)   deg: 187
+col: 3   win: (193, 576)   deg: 188
+col: 3   win: (193, 576)   deg: 189
+col: 3   win: (193, 576)   deg: 190
+col: 3   win: (193, 576)   deg: 191
+col: 3   win: (193, 576)   deg: 192
+col: 3   win: (193, 576)   deg: 193
+col: 3   win: (193, 576)   deg: 194
+col: 3   win: (193, 576)   deg: 195
+col: 3   win: (193, 576)   deg: 196
+col: 3   win: (193, 576)   deg: 197
+col: 3   win: (193, 576)   deg: 198
+col: 3   win: (193, 576)   deg: 199
+col: 3   win: (193, 576)   deg: 200 written!
+col: 4   win: (193, 576)   deg: 0
+col: 4   win: (193, 576)   deg: 1
+col: 4   win: (193, 576)   deg: 2
+col: 4   win: (193, 576)   deg: 3
+col: 4   win: (193, 576)   deg: 4
+col: 4   win: (193, 576)   deg: 5
+col: 4   win: (193, 576)   deg: 6
+col: 4   win: (193, 576)   deg: 7
+col: 4   win: (193, 576)   deg: 8
+col: 4   win: (193, 576)   deg: 9
+col: 4   win: (193, 576)   deg: 10
+col: 4   win: (193, 576)   deg: 11
+col: 4   win: (193, 576)   deg: 12
+col: 4   win: (193, 576)   deg: 13
+col: 4   win: (193, 576)   deg: 14
+col: 4   win: (193, 576)   deg: 15
+col: 4   win: (193, 576)   deg: 16
+col: 4   win: (193, 576)   deg: 17
+col: 4   win: (193, 576)   deg: 18
+col: 4   win: (193, 576)   deg: 19
+col: 4   win: (193, 576)   deg: 20
+col: 4   win: (193, 576)   deg: 21
+col: 4   win: (193, 576)   deg: 22
+col: 4   win: (193, 576)   deg: 23
+col: 4   win: (193, 576)   deg: 24
+col: 4   win: (193, 576)   deg: 25
+col: 4   win: (193, 576)   deg: 26
+col: 4   win: (193, 576)   deg: 27
+col: 4   win: (193, 576)   deg: 28
+col: 4   win: (193, 576)   deg: 29
+col: 4   win: (193, 576)   deg: 30
+col: 4   win: (193, 576)   deg: 31
+col: 4   win: (193, 576)   deg: 32
+col: 4   win: (193, 576)   deg: 33
+col: 4   win: (193, 576)   deg: 34
+col: 4   win: (193, 576)   deg: 35
+col: 4   win: (193, 576)   deg: 36
+col: 4   win: (193, 576)   deg: 37
+col: 4   win: (193, 576)   deg: 38
+col: 4   win: (193, 576)   deg: 39
+col: 4   win: (193, 576)   deg: 40
+col: 4   win: (193, 576)   deg: 41
+col: 4   win: (193, 576)   deg: 42
+col: 4   win: (193, 576)   deg: 43
+col: 4   win: (193, 576)   deg: 44
+col: 4   win: (193, 576)   deg: 45
+col: 4   win: (193, 576)   deg: 46
+col: 4   win: (193, 576)   deg: 47
+col: 4   win: (193, 576)   deg: 48
+col: 4   win: (193, 576)   deg: 49
+col: 4   win: (193, 576)   deg: 50 written!
+col: 4   win: (193, 576)   deg: 51
+col: 4   win: (193, 576)   deg: 52
+col: 4   win: (193, 576)   deg: 53
+col: 4   win: (193, 576)   deg: 54
+col: 4   win: (193, 576)   deg: 55
+col: 4   win: (193, 576)   deg: 56
+col: 4   win: (193, 576)   deg: 57
+col: 4   win: (193, 576)   deg: 58
+col: 4   win: (193, 576)   deg: 59
+col: 4   win: (193, 576)   deg: 60
+col: 4   win: (193, 576)   deg: 61
+col: 4   win: (193, 576)   deg: 62
+col: 4   win: (193, 576)   deg: 63
+col: 4   win: (193, 576)   deg: 64
+col: 4   win: (193, 576)   deg: 65
+col: 4   win: (193, 576)   deg: 66
+col: 4   win: (193, 576)   deg: 67
+col: 4   win: (193, 576)   deg: 68
+col: 4   win: (193, 576)   deg: 69
+col: 4   win: (193, 576)   deg: 70
+col: 4   win: (193, 576)   deg: 71
+col: 4   win: (193, 576)   deg: 72
+col: 4   win: (193, 576)   deg: 73
+col: 4   win: (193, 576)   deg: 74
+col: 4   win: (193, 576)   deg: 75
+col: 4   win: (193, 576)   deg: 76
+col: 4   win: (193, 576)   deg: 77
+col: 4   win: (193, 576)   deg: 78
+col: 4   win: (193, 576)   deg: 79
+col: 4   win: (193, 576)   deg: 80
+col: 4   win: (193, 576)   deg: 81
+col: 4   win: (193, 576)   deg: 82
+col: 4   win: (193, 576)   deg: 83
+col: 4   win: (193, 576)   deg: 84
+col: 4   win: (193, 576)   deg: 85
+col: 4   win: (193, 576)   deg: 86
+col: 4   win: (193, 576)   deg: 87
+col: 4   win: (193, 576)   deg: 88
+col: 4   win: (193, 576)   deg: 89
+col: 4   win: (193, 576)   deg: 90
+col: 4   win: (193, 576)   deg: 91
+col: 4   win: (193, 576)   deg: 92
+col: 4   win: (193, 576)   deg: 93
+col: 4   win: (193, 576)   deg: 94
+col: 4   win: (193, 576)   deg: 95
+col: 4   win: (193, 576)   deg: 96
+col: 4   win: (193, 576)   deg: 97
+col: 4   win: (193, 576)   deg: 98
+col: 4   win: (193, 576)   deg: 99
+col: 4   win: (193, 576)   deg: 100 written!
+col: 4   win: (193, 576)   deg: 101
+col: 4   win: (193, 576)   deg: 102
+col: 4   win: (193, 576)   deg: 103
+col: 4   win: (193, 576)   deg: 104
+col: 4   win: (193, 576)   deg: 105
+col: 4   win: (193, 576)   deg: 106
+col: 4   win: (193, 576)   deg: 107
+col: 4   win: (193, 576)   deg: 108
+col: 4   win: (193, 576)   deg: 109
+col: 4   win: (193, 576)   deg: 110
+col: 4   win: (193, 576)   deg: 111
+col: 4   win: (193, 576)   deg: 112
+col: 4   win: (193, 576)   deg: 113
+col: 4   win: (193, 576)   deg: 114
+col: 4   win: (193, 576)   deg: 115
+col: 4   win: (193, 576)   deg: 116
+col: 4   win: (193, 576)   deg: 117
+col: 4   win: (193, 576)   deg: 118
+col: 4   win: (193, 576)   deg: 119
+col: 4   win: (193, 576)   deg: 120
+col: 4   win: (193, 576)   deg: 121
+col: 4   win: (193, 576)   deg: 122
+col: 4   win: (193, 576)   deg: 123
+col: 4   win: (193, 576)   deg: 124
+col: 4   win: (193, 576)   deg: 125
+col: 4   win: (193, 576)   deg: 126
+col: 4   win: (193, 576)   deg: 127
+col: 4   win: (193, 576)   deg: 128
+col: 4   win: (193, 576)   deg: 129
+col: 4   win: (193, 576)   deg: 130
+col: 4   win: (193, 576)   deg: 131
+col: 4   win: (193, 576)   deg: 132
+col: 4   win: (193, 576)   deg: 133
+col: 4   win: (193, 576)   deg: 134
+col: 4   win: (193, 576)   deg: 135
+col: 4   win: (193, 576)   deg: 136
+col: 4   win: (193, 576)   deg: 137
+col: 4   win: (193, 576)   deg: 138
+col: 4   win: (193, 576)   deg: 139
+col: 4   win: (193, 576)   deg: 140
+col: 4   win: (193, 576)   deg: 141
+col: 4   win: (193, 576)   deg: 142
+col: 4   win: (193, 576)   deg: 143
+col: 4   win: (193, 576)   deg: 144
+col: 4   win: (193, 576)   deg: 145
+col: 4   win: (193, 576)   deg: 146
+col: 4   win: (193, 576)   deg: 147
+col: 4   win: (193, 576)   deg: 148
+col: 4   win: (193, 576)   deg: 149
+col: 4   win: (193, 576)   deg: 150 written!
+col: 4   win: (193, 576)   deg: 151
+col: 4   win: (193, 576)   deg: 152
+col: 4   win: (193, 576)   deg: 153
+col: 4   win: (193, 576)   deg: 154
+col: 4   win: (193, 576)   deg: 155
+col: 4   win: (193, 576)   deg: 156
+col: 4   win: (193, 576)   deg: 157
+col: 4   win: (193, 576)   deg: 158
+col: 4   win: (193, 576)   deg: 159
+col: 4   win: (193, 576)   deg: 160
+col: 4   win: (193, 576)   deg: 161
+col: 4   win: (193, 576)   deg: 162
+col: 4   win: (193, 576)   deg: 163
+col: 4   win: (193, 576)   deg: 164
+col: 4   win: (193, 576)   deg: 165
+col: 4   win: (193, 576)   deg: 166
+col: 4   win: (193, 576)   deg: 167
+col: 4   win: (193, 576)   deg: 168
+col: 4   win: (193, 576)   deg: 169
+col: 4   win: (193, 576)   deg: 170
+col: 4   win: (193, 576)   deg: 171
+col: 4   win: (193, 576)   deg: 172
+col: 4   win: (193, 576)   deg: 173
+col: 4   win: (193, 576)   deg: 174
+col: 4   win: (193, 576)   deg: 175
+col: 4   win: (193, 576)   deg: 176
+col: 4   win: (193, 576)   deg: 177
+col: 4   win: (193, 576)   deg: 178
+col: 4   win: (193, 576)   deg: 179
+col: 4   win: (193, 576)   deg: 180
+col: 4   win: (193, 576)   deg: 181
+col: 4   win: (193, 576)   deg: 182
+col: 4   win: (193, 576)   deg: 183
+col: 4   win: (193, 576)   deg: 184
+col: 4   win: (193, 576)   deg: 185
+col: 4   win: (193, 576)   deg: 186
+col: 4   win: (193, 576)   deg: 187
+col: 4   win: (193, 576)   deg: 188
+col: 4   win: (193, 576)   deg: 189
+col: 4   win: (193, 576)   deg: 190
+col: 4   win: (193, 576)   deg: 191
+col: 4   win: (193, 576)   deg: 192
+col: 4   win: (193, 576)   deg: 193
+col: 4   win: (193, 576)   deg: 194
+col: 4   win: (193, 576)   deg: 195
+col: 4   win: (193, 576)   deg: 196
+col: 4   win: (193, 576)   deg: 197
+col: 4   win: (193, 576)   deg: 198
+col: 4   win: (193, 576)   deg: 199
+col: 4   win: (193, 576)   deg: 200 written!
+col: 5   win: (193, 576)   deg: 0
+col: 5   win: (193, 576)   deg: 1
+col: 5   win: (193, 576)   deg: 2
+col: 5   win: (193, 576)   deg: 3
+col: 5   win: (193, 576)   deg: 4
+col: 5   win: (193, 576)   deg: 5
+col: 5   win: (193, 576)   deg: 6
+col: 5   win: (193, 576)   deg: 7
+col: 5   win: (193, 576)   deg: 8
+col: 5   win: (193, 576)   deg: 9
+col: 5   win: (193, 576)   deg: 10
+col: 5   win: (193, 576)   deg: 11
+col: 5   win: (193, 576)   deg: 12
+col: 5   win: (193, 576)   deg: 13
+col: 5   win: (193, 576)   deg: 14
+col: 5   win: (193, 576)   deg: 15
+col: 5   win: (193, 576)   deg: 16
+col: 5   win: (193, 576)   deg: 17
+col: 5   win: (193, 576)   deg: 18
+col: 5   win: (193, 576)   deg: 19
+col: 5   win: (193, 576)   deg: 20
+col: 5   win: (193, 576)   deg: 21
+col: 5   win: (193, 576)   deg: 22
+col: 5   win: (193, 576)   deg: 23
+col: 5   win: (193, 576)   deg: 24
+col: 5   win: (193, 576)   deg: 25
+col: 5   win: (193, 576)   deg: 26
+col: 5   win: (193, 576)   deg: 27
+col: 5   win: (193, 576)   deg: 28
+col: 5   win: (193, 576)   deg: 29
+col: 5   win: (193, 576)   deg: 30
+col: 5   win: (193, 576)   deg: 31
+col: 5   win: (193, 576)   deg: 32
+col: 5   win: (193, 576)   deg: 33
+col: 5   win: (193, 576)   deg: 34
+col: 5   win: (193, 576)   deg: 35
+col: 5   win: (193, 576)   deg: 36
+col: 5   win: (193, 576)   deg: 37
+col: 5   win: (193, 576)   deg: 38
+col: 5   win: (193, 576)   deg: 39
+col: 5   win: (193, 576)   deg: 40
+col: 5   win: (193, 576)   deg: 41
+col: 5   win: (193, 576)   deg: 42
+col: 5   win: (193, 576)   deg: 43
+col: 5   win: (193, 576)   deg: 44
+col: 5   win: (193, 576)   deg: 45
+col: 5   win: (193, 576)   deg: 46
+col: 5   win: (193, 576)   deg: 47
+col: 5   win: (193, 576)   deg: 48
+col: 5   win: (193, 576)   deg: 49
+col: 5   win: (193, 576)   deg: 50 written!
+col: 5   win: (193, 576)   deg: 51
+col: 5   win: (193, 576)   deg: 52
+col: 5   win: (193, 576)   deg: 53
+col: 5   win: (193, 576)   deg: 54
+col: 5   win: (193, 576)   deg: 55
+col: 5   win: (193, 576)   deg: 56
+col: 5   win: (193, 576)   deg: 57
+col: 5   win: (193, 576)   deg: 58
+col: 5   win: (193, 576)   deg: 59
+col: 5   win: (193, 576)   deg: 60
+col: 5   win: (193, 576)   deg: 61
+col: 5   win: (193, 576)   deg: 62
+col: 5   win: (193, 576)   deg: 63
+col: 5   win: (193, 576)   deg: 64
+col: 5   win: (193, 576)   deg: 65
+col: 5   win: (193, 576)   deg: 66
+col: 5   win: (193, 576)   deg: 67
+col: 5   win: (193, 576)   deg: 68
+col: 5   win: (193, 576)   deg: 69
+col: 5   win: (193, 576)   deg: 70
+col: 5   win: (193, 576)   deg: 71
+col: 5   win: (193, 576)   deg: 72
+col: 5   win: (193, 576)   deg: 73
+col: 5   win: (193, 576)   deg: 74
+col: 5   win: (193, 576)   deg: 75
+col: 5   win: (193, 576)   deg: 76
+col: 5   win: (193, 576)   deg: 77
+col: 5   win: (193, 576)   deg: 78
+col: 5   win: (193, 576)   deg: 79
+col: 5   win: (193, 576)   deg: 80
+col: 5   win: (193, 576)   deg: 81
+col: 5   win: (193, 576)   deg: 82
+col: 5   win: (193, 576)   deg: 83
+col: 5   win: (193, 576)   deg: 84
+col: 5   win: (193, 576)   deg: 85
+col: 5   win: (193, 576)   deg: 86
+col: 5   win: (193, 576)   deg: 87
+col: 5   win: (193, 576)   deg: 88
+col: 5   win: (193, 576)   deg: 89
+col: 5   win: (193, 576)   deg: 90
+col: 5   win: (193, 576)   deg: 91
+col: 5   win: (193, 576)   deg: 92
+col: 5   win: (193, 576)   deg: 93
+col: 5   win: (193, 576)   deg: 94
+col: 5   win: (193, 576)   deg: 95
+col: 5   win: (193, 576)   deg: 96
+col: 5   win: (193, 576)   deg: 97
+col: 5   win: (193, 576)   deg: 98
+col: 5   win: (193, 576)   deg: 99
+col: 5   win: (193, 576)   deg: 100 written!
+col: 5   win: (193, 576)   deg: 101
+col: 5   win: (193, 576)   deg: 102
+col: 5   win: (193, 576)   deg: 103
+col: 5   win: (193, 576)   deg: 104
+col: 5   win: (193, 576)   deg: 105
+col: 5   win: (193, 576)   deg: 106
+col: 5   win: (193, 576)   deg: 107
+col: 5   win: (193, 576)   deg: 108
+col: 5   win: (193, 576)   deg: 109
+col: 5   win: (193, 576)   deg: 110
+col: 5   win: (193, 576)   deg: 111
+col: 5   win: (193, 576)   deg: 112
+col: 5   win: (193, 576)   deg: 113
+col: 5   win: (193, 576)   deg: 114
+col: 5   win: (193, 576)   deg: 115
+col: 5   win: (193, 576)   deg: 116
+col: 5   win: (193, 576)   deg: 117
+col: 5   win: (193, 576)   deg: 118
+col: 5   win: (193, 576)   deg: 119
+col: 5   win: (193, 576)   deg: 120
+col: 5   win: (193, 576)   deg: 121
+col: 5   win: (193, 576)   deg: 122
+col: 5   win: (193, 576)   deg: 123
+col: 5   win: (193, 576)   deg: 124
+col: 5   win: (193, 576)   deg: 125
+col: 5   win: (193, 576)   deg: 126
+col: 5   win: (193, 576)   deg: 127
+col: 5   win: (193, 576)   deg: 128
+col: 5   win: (193, 576)   deg: 129
+col: 5   win: (193, 576)   deg: 130
+col: 5   win: (193, 576)   deg: 131
+col: 5   win: (193, 576)   deg: 132
+col: 5   win: (193, 576)   deg: 133
+col: 5   win: (193, 576)   deg: 134
+col: 5   win: (193, 576)   deg: 135
+col: 5   win: (193, 576)   deg: 136
+col: 5   win: (193, 576)   deg: 137
+col: 5   win: (193, 576)   deg: 138
+col: 5   win: (193, 576)   deg: 139
+col: 5   win: (193, 576)   deg: 140
+col: 5   win: (193, 576)   deg: 141
+col: 5   win: (193, 576)   deg: 142
+col: 5   win: (193, 576)   deg: 143
+col: 5   win: (193, 576)   deg: 144
+col: 5   win: (193, 576)   deg: 145
+col: 5   win: (193, 576)   deg: 146
+col: 5   win: (193, 576)   deg: 147
+col: 5   win: (193, 576)   deg: 148
+col: 5   win: (193, 576)   deg: 149
+col: 5   win: (193, 576)   deg: 150 written!
+col: 5   win: (193, 576)   deg: 151
+col: 5   win: (193, 576)   deg: 152
+col: 5   win: (193, 576)   deg: 153
+col: 5   win: (193, 576)   deg: 154
+col: 5   win: (193, 576)   deg: 155
+col: 5   win: (193, 576)   deg: 156
+col: 5   win: (193, 576)   deg: 157
+col: 5   win: (193, 576)   deg: 158
+col: 5   win: (193, 576)   deg: 159
+col: 5   win: (193, 576)   deg: 160
+col: 5   win: (193, 576)   deg: 161
+col: 5   win: (193, 576)   deg: 162
+col: 5   win: (193, 576)   deg: 163
+col: 5   win: (193, 576)   deg: 164
+col: 5   win: (193, 576)   deg: 165
+col: 5   win: (193, 576)   deg: 166
+col: 5   win: (193, 576)   deg: 167
+col: 5   win: (193, 576)   deg: 168
+col: 5   win: (193, 576)   deg: 169
+col: 5   win: (193, 576)   deg: 170
+col: 5   win: (193, 576)   deg: 171
+col: 5   win: (193, 576)   deg: 172
+col: 5   win: (193, 576)   deg: 173
+col: 5   win: (193, 576)   deg: 174
+col: 5   win: (193, 576)   deg: 175
+col: 5   win: (193, 576)   deg: 176
+col: 5   win: (193, 576)   deg: 177
+col: 5   win: (193, 576)   deg: 178
+col: 5   win: (193, 576)   deg: 179
+col: 5   win: (193, 576)   deg: 180
+col: 5   win: (193, 576)   deg: 181
+col: 5   win: (193, 576)   deg: 182
+col: 5   win: (193, 576)   deg: 183
+col: 5   win: (193, 576)   deg: 184
+col: 5   win: (193, 576)   deg: 185
+col: 5   win: (193, 576)   deg: 186
+col: 5   win: (193, 576)   deg: 187
+col: 5   win: (193, 576)   deg: 188
+col: 5   win: (193, 576)   deg: 189
+col: 5   win: (193, 576)   deg: 190
+col: 5   win: (193, 576)   deg: 191
+col: 5   win: (193, 576)   deg: 192
+col: 5   win: (193, 576)   deg: 193
+col: 5   win: (193, 576)   deg: 194
+col: 5   win: (193, 576)   deg: 195
+col: 5   win: (193, 576)   deg: 196
+col: 5   win: (193, 576)   deg: 197
+col: 5   win: (193, 576)   deg: 198
+col: 5   win: (193, 576)   deg: 199
+col: 5   win: (193, 576)   deg: 200 written!
+equ_G02-test.txt_col[2,3-5]_degs[50-50-150,200]_w[1-384-96-end]_prec1000 (193, 576) 1.421772584210929e-06	6.058194698603041e-06	6.008260670988190e-06
