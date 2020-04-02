@@ -4,7 +4,7 @@
 
 # © Siberian Federal University, 2017
 # Authors: Sergey P. Tsarev, Alexander S. Pustoshilov
-# Paper reference: S.P.Tsarev, A.A.Kytmanov, Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits. arxiv.org/????? 2020
+# Paper reference: S.P.Tsarev, A.A.Kytmanov, Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits: https://arxiv.org/abs/2004.00414
 
 # This script robustly approximates a (probably vector-valued) time series with polynomials of large degrees
 # (up to a few hundred) in the sense of the best RMS (best least squares) approximation

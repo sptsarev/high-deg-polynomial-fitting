@@ -4,7 +4,7 @@
 
 # © Сибирский федеральный университет, 2017
 # Авторы: С.П.Царев, А.С.Пустошилов
-# Теоретические детали и пример применения: S.P.Tsarev, A.A.Kytmanov, Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits. arxiv.org/????? 2020
+# Теоретические детали и пример применения: S.P.Tsarev, A.A.Kytmanov, Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits: https://arxiv.org/abs/2004.00414
 
 # Данный скрипт позволяет аппроксимировать полиномами больших степеней (степенью до нескольких сотен) 
 # одномерный набор скалярных и векторнозначных данных (который формально можно считать функцией дискретного аргумента, или временным рядом)

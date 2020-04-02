@@ -19,7 +19,7 @@ Being a state institution, the Siberian Federal University has the obligation to
 ## Getting Started
 
 This repository contains the code used in:
-S.P.Tsarev, A.A.Kytmanov, _Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits_ (Posted at: <https://arxiv.org/> in 2020)
+S.P.Tsarev, A.A.Kytmanov, _Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits_: <https://arxiv.org/abs/2004.00414>
 
 All algorithms for best least squares polynomial approximation in this repository were implemented in [Julia programming language](https://en.wikipedia.org/wiki/Julia_(programming_language)). 
 
@@ -59,5 +59,5 @@ You need only a Julia installation to run the code. Please note that all version
 Please write to <sptsarev@mail.ru> if you have questions, comments or suggestions.
 
 Cite the paper 
-S.P.Tsarev, A.A.Kytmanov, _Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits_ 
+S.P.Tsarev, A.A.Kytmanov, _Discrete orthogonal polynomials as a tool for detection of small anomalies of time series: a case study of GPS final orbits_: <https://arxiv.org/abs/2004.00414>
 if you need a publication reference.
